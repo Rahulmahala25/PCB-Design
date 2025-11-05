@@ -31,9 +31,9 @@ It accepts a 5 V input and outputs a regulated 3.3 V supply suitable for powerin
 
 ## 📐 Schematic
 
-![Schematic]<img width="1514" height="680" alt="image" src="https://github.com/user-attachments/assets/ff9820a3-11b7-4a52-bb1d-c753afe0dc3b" />
+<img width="1514" height="680" alt="image" src="https://github.com/user-attachments/assets/ff9820a3-11b7-4a52-bb1d-c753afe0dc3b" />
 
-> Shows the full circuit: input connector → decoupling capacitor → MIC5317 regulator → output capacitor → output connector.
+- Shows the full circuit: input connector → decoupling capacitor → MIC5317 regulator → output capacitor → output connector.
 
 ---
 
@@ -41,17 +41,17 @@ It accepts a 5 V input and outputs a regulated 3.3 V supply suitable for powerin
 
 ### ✅ Top View (2D)
 
-![PCB Layout 2D]<img width="1445" height="562" alt="image" src="https://github.com/user-attachments/assets/748dbb36-16fd-49db-8d55-a9779b10b88b" />
+<img width="1445" height="562" alt="image" src="https://github.com/user-attachments/assets/748dbb36-16fd-49db-8d55-a9779b10b88b" />
 
-> Components arranged linearly for minimal trace length. Short ground + input paths ensure improved noise performance.
+- Components arranged linearly for minimal trace length. Short ground + input paths ensure improved noise performance.
 
 ---
 
 ### ✅ 3D View
 
-![PCB Layout 3D]<img width="1088" height="502" alt="image" src="https://github.com/user-attachments/assets/b3845d37-9e80-4458-8b60-2eff2ee70dcf" />
+<img width="1088" height="502" alt="image" src="https://github.com/user-attachments/assets/b3845d37-9e80-4458-8b60-2eff2ee70dcf" />
 
-> 3D rendering for mechanical checks, connector placement clarity, and production visualization.
+- 3D rendering for mechanical checks, connector placement clarity, and production visualization.
 
 ---
 
