@@ -31,7 +31,8 @@ It accepts a 5 V input and outputs a regulated 3.3 V supply suitable for powerin
 
 ## 📐 Schematic
 
-![Schematic](./schematic.png)
+![Schematic]<img width="1445" height="562" alt="image" src="https://github.com/user-attachments/assets/8315570d-6132-4323-8241-eec52e65c2d4" />
+
 
 > Shows the full circuit: input connector → decoupling capacitor → MIC5317 regulator → output capacitor → output connector.
 
@@ -41,7 +42,8 @@ It accepts a 5 V input and outputs a regulated 3.3 V supply suitable for powerin
 
 ### ✅ Top View (2D)
 
-![PCB Layout 2D](./pcb_2d.png)
+![PCB Layout 2D]<img width="1088" height="502" alt="image" src="https://github.com/user-attachments/assets/62882303-6fd9-4988-8a43-5f6329c633f4" />
+
 
 > Components arranged linearly for minimal trace length. Short ground + input paths ensure improved noise performance.
 
